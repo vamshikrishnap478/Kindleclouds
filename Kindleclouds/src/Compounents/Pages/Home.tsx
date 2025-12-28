@@ -1,5 +1,4 @@
 import react from "react"
-import header from "../Header"
 
 const home : react.FC  = () => {
     return (
